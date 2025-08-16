@@ -20,7 +20,7 @@
 
 **Programming:** Python  
 **Technologies:** Lumerical FDTD, COMSOL, LaTeX  
-**Other:** Optical Spectroscopy, Nanofabrication, High Performance Computing
+**Other:** Optical Spectroscopy, High Performance Computing
 
 ---
 
